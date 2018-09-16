@@ -9,7 +9,7 @@
             "changeTime": 1537083639720,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -24,7 +24,7 @@
             "changeTime": 1537083639721,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -52,7 +52,7 @@
             "changeTime": 1537083639721,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -67,7 +67,7 @@
             "changeTime": 1537083851449,
             "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
             "isMetadataFile": false,
-            "state": "n",
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
         }
@@ -278,6 +278,32 @@
             "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
             "isMetadataFile": false,
             "state": "u"
+        }
+    ],
+    [
+        "e:\\geolocation\\force-app\\Test.component",
+        {
+            "state": "u",
+            "sourcePath": "e:\\geolocation\\force-app\\Test.component",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 188,
+            "modifiedTime": 1537120480771,
+            "changeTime": 1537120480771,
+            "contentHash": "0d20cf97f0dfe49052f1637395d7e9dc6cbf43e0"
+        }
+    ],
+    [
+        "e:\\geolocation\\force-app\\Test.component-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "e:\\geolocation\\force-app\\Test.component-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 186,
+            "modifiedTime": 1537117536218,
+            "changeTime": 1537117536218,
+            "contentHash": "607197f24b5b79c5a2dacca222482e87fc61f614"
         }
     ]
 ]
