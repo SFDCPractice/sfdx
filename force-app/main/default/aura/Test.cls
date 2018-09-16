@@ -2,7 +2,7 @@ public with sharing class Test {
     public Test() {
          System.debug('Hi');
     }
-    @AuraEnabled
+    @AuraEnabled 
     public String getEmpName(){
 
         return 'My';
